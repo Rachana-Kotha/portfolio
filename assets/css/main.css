@@ -163,10 +163,11 @@ footer, header, hgroup, menu, nav, section {
 }
 
 .education-image img {
-    width: 100%;
+    width: 74%;
     height: 100%;
     object-fit: contain;
     transition: transform 0.3s ease;
+    margin-left: 18%;
 }
 
 .education-content:hover .education-image img {
